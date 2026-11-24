@@ -1,0 +1,12 @@
+ABC Supplies
+Invoice No: INV-101
+Invoice Date: 10 October 2026
+Item: Printer Paper
+Quantity: 10
+Unit Price: INR 200
+Tax: 18%
+Subtotal: INR 2,000
+Tax Amount: INR 360
+Total Amount: INR 2,360
+Amount Due: INR 2,360
+Synthetic classroom example only. GSTIN and due date are intentionally absent.

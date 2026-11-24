@@ -1,0 +1,11 @@
+BrightLeaf Stationers, 14 MG Road, Pune 411001
+GSTIN: 27ABCDE1234F1Z5
+Tax Invoice No: BLS/2026/0457     Date: 03-11-2026     Due: 03-12-2026
+#  Description        Qty  Rate     Amount
+1  A4 Paper Ream      5    250.00   1,250.00
+2  Gel Pens (box)     3    120.00     360.00
+3  Stapler            2    185.00     370.00
+Subtotal                            1,980.00
+GST @18%                              356.40
+Total (INR)                         2,336.40
+Synthetic classroom example.

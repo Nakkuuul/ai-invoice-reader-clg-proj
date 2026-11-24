@@ -1,0 +1,11 @@
+Test ID,Scenario,Sample file,Expected result,Actual result,Pass/Fail,Evidence
+T01,Clear invoice one item,T01_clear_invoice.txt,Extract visible fields accurately,,,
+T02,Receipt with no GSTIN,T01_clear_invoice.txt,GSTIN null; no fabrication,,,
+T03,Invoice with multiple items,T03_multiple_items.txt,Return every item in source order,,,
+T04,Invoice with discount,T05_cgst_sgst_discount.txt,Capture discount and preserve printed totals,,,
+T05,Invoice with CGST and SGST,T05_cgst_sgst_discount.txt,Capture both taxes faithfully,,,
+T06,Blurry scan,(upload a blurry photo),Flag unreadable fields; do not guess,,,
+T07,Missing due date,T01_clear_invoice.txt,due_date null,,,
+T08,Foreign currency invoice,T08_foreign_currency.txt,Preserve currency; no conversion,,,
+T09,Arithmetic mismatch,T09_arithmetic_mismatch.txt,Keep printed total and report mismatch,,,
+T10,Unrelated image,T10_not_an_invoice.txt,Do not invent invoice fields,,,

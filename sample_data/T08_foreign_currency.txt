@@ -1,0 +1,8 @@
+Northwind Cloud Services Ltd., London, UK
+Invoice #NW-2026-1190    Issued: 2026-09-30    Payment due: 2026-10-30
+Cloud hosting (Sept)     1 x USD 480.00   = USD 480.00
+Support plan             1 x USD 120.00   = USD 120.00
+Subtotal USD 600.00
+VAT 0% (reverse charge) USD 0.00
+TOTAL USD 600.00
+Synthetic classroom example.

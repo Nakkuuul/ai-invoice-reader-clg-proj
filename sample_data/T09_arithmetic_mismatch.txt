@@ -1,0 +1,8 @@
+Metro Office Mart
+Invoice No: MOM-311   Date: 22 Oct 2026
+Printer Ink Cartridge   Qty 4   Unit 650   Line Total 2,500
+Subtotal: 2,500
+Tax 18%: 450
+Total: 3,050
+Amount Due: 3,050
+Synthetic example: 4 x 650 = 2,600 and 2,500 + 450 = 2,950, so the printed values are deliberately inconsistent.

@@ -1,0 +1,11 @@
+Shree Ganesh Electricals
+Invoice: SGE-88   Date: 15/10/2026
+Item: LED Bulb 9W   Qty 20   Rate 90   Discount 100   Amount 1,700
+Item: Extension Board   Qty 2   Rate 450   Amount 900
+Subtotal: 2,600
+CGST 9%: 234
+SGST 9%: 234
+Delivery charges: 50
+Grand Total: Rs. 3,118
+Amount Due: Rs. 3,118
+Synthetic classroom example. GSTIN intentionally absent.

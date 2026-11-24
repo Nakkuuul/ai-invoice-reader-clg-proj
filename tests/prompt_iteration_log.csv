@@ -1,0 +1,5 @@
+Version,Change,Reason,Evidence to save
+V1,Baseline prompt from Milestone 1,Establish baseline,Prompt and raw output
+V2,Fixed JSON schema and numeric/null rules,Improve consistency,JSON validity and field coverage
+V3,Uncertainty paths and arithmetic safeguards,Reduce guessing,Uncertain fields and discrepancy notes
+V4,Strict rules + few-shot example + CGST/SGST + non-invoice handling; second-stage validator,Mentor feedback: diverse formats and total checks,Validator output and test evidence
